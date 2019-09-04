@@ -1,0 +1,8 @@
+theme: jekyll-theme-slate
+title: AungMyoMin
+url: https://aungmyominz.github.io
+description: Self Introduction Webpage on Github
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
